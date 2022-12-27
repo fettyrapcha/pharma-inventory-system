@@ -1,7 +1,6 @@
 '''
     INVENTORY MANAGEMENT SYSTEM
-    Developed By->PJ28105
-    Started On ->08/11/18
+    Developed By->Fetty rapcha
 '''
 
 import sqlite3

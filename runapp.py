@@ -33,7 +33,7 @@ class Main(splash, Login, Admin, User):
         self.mainw.geometry("%dx%d+%d+%d" %
                             (width, height, x, y))
         self.mainw.title("Inventory")
-        self.mainw.resizable(1, 1)
+        # self.mainw.resizable(1, 1)
         self.mainw.protocol('WM_DELETE_WINDOW', self.__Main_del__)
         self.getdetails()
 
@@ -75,16 +75,13 @@ class Main(splash, Login, Admin, User):
         self.logout.config(command=self.__Main_del__)
         self.changeuser.config(command=self.change_user)
         self.topframe = LabelFrame(
-            self.mainw, width=1400, height=120, bg="#ffffff")
+            self.mainw, width=1400, height=60, bg="#ffffff")
         self.topframe.place(x=0, y=0)
-        self.store_name = 'PRINCE CARE PHARMACY LTD'
-        self.storelable = Label(
-            self.topframe, text=self.store_name, bg="#ffffff", fg="#0dd932", anchor="center")
-        self.storelable.config(font=("Time New Roman", 50, "bold"))
-        self.storelable.place(x=330, y=20)
+        # self.storelable.config(font=("Time New Roman", 50, "bold"))
+        # self.storelable.place(x=330, y=20)
 
         mi = Image.open("images/fetty.jpg")
-        mi = mi.resize((1250, 113))
+        mi = mi.resize((1250,60))
         mi = ImageTk.PhotoImage(mi)
         self.mylogo = Label(self.topframe, image=mi)
         self.mylogo.image = mi
@@ -99,13 +96,13 @@ class Main(splash, Login, Admin, User):
 
         # mi = PhotoImage(file="images/myprofile.png")
         mi = Image.open("images/user.png")
-        mi = mi.resize((30, 30))
+        mi = mi.resize((25, 25))
         mi = ImageTk.PhotoImage(mi)
         # mi = mi.subsample(4,4)
         self.myprofile = ttk.Label(self.topframe, text=(
             self.username.get()).capitalize(), image=mi, compound=TOP)
         self.myprofile.image = mi
-        self.myprofile.place(x=1180, y=25)
+        self.myprofile.place(x=1180, y=4)
 
         ''''
         if self.account_type == 'ADMIN':
