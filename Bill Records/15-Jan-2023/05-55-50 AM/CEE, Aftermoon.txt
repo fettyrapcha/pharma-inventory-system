@@ -1,0 +1,52 @@
+
+Sales
+
+Cashier : CEE									Date : 15/Jan/2023
+
+Shift  : Aftermoon									Time : 05:55:50 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  GEBEDOL						1		5.00		5.00
+  2	  CIPRO-VYCED						1		6.00		6.00
+  3	  GAUZE BANAGE 4'						10		1.50		15.00
+  4	  LOFNAC 100						10		1.50		15.00
+  5	  NO.10						3		2.00		6.00
+  6	  POLYGEL SUSP 120ML						1		11.00		11.00
+  7	  TANZOL						1		5.00		5.00
+  8	  GEBEDOL						1		5.00		5.00
+  9	  GYPRONE PLUS TABLET						1		6.00		6.00
+  10	  AMOXACILLIN 500MG ERNEST						2		10.00		20.00
+  11	  CYFEN TAB						1		3.00		3.00
+  12	  CHLORAMPHENICOL EYE OINTMENT						1		6.00		6.00
+  13	  ROOTER TYTONIC						1		21.00		21.00
+  14	  PARACETAMOL TAB						1		2.00		2.00
+  15	  GEBEDOL						1		5.00		5.00
+  16	  LOPERAMIDE						2		3.00		6.00
+  17	  METRONIDAZOLE (DANGYL) 400MG						3		3.00		9.00
+  18	  PAINGAY CAPS						1		10.00		10.00
+  19	  LOFNAC TAB						1		4.00		4.00
+  20	  LETALIN						1		6.50		6.50
+  21	  PARACETAMOL TAB						1		2.00		2.00
+  22	  POLYGEL SUSP 120ML						1		11.00		11.00
+  23	  PARACETAMOL TAB						1		2.00		2.00
+  24	  LYDIA POSTPILL						1		15.50		15.50
+  25	  KWIK ACTION						1		2.00		2.00
+  26	  KISS CONDOM						1		6.00		6.00
+  27	  PREGNANCY TEST KIT						1		3.00		3.00
+  28	  METRONIDAZOLE 200MG						1		1.50		1.50
+  29	  PARACETAMOL TAB						1		2.00		2.00
+  30	  PERMOXYL						1		18.00		18.00
+  31	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  32	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  33	  IBUCAP						1		5.50		5.50
+  34	  HAYZIN						1		1.50		1.50
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 244.50
+----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+
+Sales
+
+Cashier : CEE									Date : 10/Jan/2023
+
+Shift  : Aftermoon									Time : 05:43:28 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  DOLOTAB						1		2.50		2.50
+  2	  PENICILLIN V 125						1		3.00		3.00
+  3	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  4	  AMOXACILLIN 500MG ERNEST						1		10.00		10.00
+  5	  SAMALIN ADULT						1		18.00		18.00
+  6	  FAMACOLD						1		2.00		2.00
+  7	  EFPAC						1		3.00		3.00
+  8	  FAMACOLD						1		2.00		2.00
+  9	  METRONIDAZOLE 200MG						1		1.50		1.50
+  10	  PENICILLIN V 125						2		3.00		6.00
+  11	  SEPTRIN						2		3.00		6.00
+  12	  METRONIDAZOLE 200MG						2		1.50		3.00
+  13	  PARACETAMOL TAB						1		2.00		2.00
+  14	  EFPAC						1		3.00		3.00
+  15	  CITRO-C						1		3.50		3.50
+  16	  MAGNAVIT						1		26.00		26.00
+  17	  AMOXACILLIN CAP 250MG						3		4.00		12.00
+  18	  GYPRONE PLUS TABLET						1		6.00		6.00
+  19	  LETALIN						1		6.50		6.50
+  20	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  21	  TETRACYCLINE CAP						1		4.00		4.00
+  22	  LOPERAMIDE						1		3.00		3.00
+  23	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  24	  PARACETAMOL TAB						6		2.00		12.00
+  25	  LOFNAC TAB						1		4.00		4.00
+  26	  PENICILLIN V 125						2		3.00		6.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 158.00
+----------------------------------------------------------------------------------------------------------------------------------
+

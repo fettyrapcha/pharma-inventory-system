@@ -24,7 +24,7 @@ class Login:
         self.loginw.geometry("%dx%d+%d+%d" % (width, height, x, y))
         self.loginw.resizable(0, 0)
         self.loginw.protocol('WM_DELETE_WINDOW', self.__login_del__)
-        self.loginw.config(bg="#0dd932")
+        self.loginw.config(bg="#096e5b")
         self.logintable()
         self.username = StringVar(value="Username")
         self.password = StringVar(value="Password")
@@ -45,10 +45,10 @@ class Login:
     # WIDGET FUNCTION
     def obj(self):
         self.loginframe = LabelFrame(
-            self.loginw, bg="#0dd932", height=400, width=300)
+            self.loginw, bg="#096e5b", height=400, width=300)
         self.loginw.bind('<Return>', self.checkuser)
         self.loginframe.place(x=103, y=95)
-        self.toplabel = Label(self.loginframe, fg="white", bg="#0dd932",
+        self.toplabel = Label(self.loginframe, fg="white", bg="#096e5b",
                               anchor="center", text="Login", font="Roboto 40 bold")
         self.toplabel.place(x=75, y=25)
         self.us = ttk.Entry(self.loginframe, width=20,

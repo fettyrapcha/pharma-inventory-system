@@ -1,0 +1,95 @@
+
+Sales
+
+Cashier : CEE									Date : 12/Jan/2023
+
+Shift  : Aftermoon									Time : 10:10:39 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  AMOXACILLIN CAPS TOBIN						2		5.00		10.00
+  2	  CITRO-C						2		3.50		7.00
+  3	  LOFNAC TAB						1		4.00		4.00
+  4	  GEBEDOL						1		5.00		5.00
+  5	  GYPRONE PLUS TABLET						1		6.00		6.00
+  6	  DEXONE						1		4.00		4.00
+  7	  LETACAM						1		2.00		2.00
+  8	  MULTIVITE						2		0.60		1.20
+  9	  RUFEDOL						1		2.50		2.50
+  10	  LOPERAMIDE						1		3.00		3.00
+  11	  PARACETAMOL TAB						5		2.00		10.00
+  12	  PREGNANCY TEST KIT						2		3.00		6.00
+  13	  PREDNISOLONE 5MG						1		1.50		1.50
+  14	  CYFEN TAB						1		3.00		3.00
+  15	  FUNBART-A						1		17.00		17.00
+  16	  BENDROFLUAZIDE 2.5MG						2		2.00		4.00
+  17	  SEPTRIN						1		3.00		3.00
+  18	  CREPE BANAGE 3'						1		9.00		9.00
+  19	  CITRO-C						1		3.50		3.50
+  20	  DYNEWELL TAB						2		1.00		2.00
+  21	  EFPAC						1		3.00		3.00
+  22	  ASMADRIN						2		1.50		3.00
+  23	  EFPAC						1		3.00		3.00
+  24	  AMOXACILLIN 500MG ERNEST						1		10.00		10.00
+  25	  METRONIDAZOLE (DANGYL) 400MG						2		3.00		6.00
+  26	  DEXONE						1		5.00		5.00
+  27	  TETRACYCLINE CAP						1		4.00		4.00
+  28	  METRONIDAZOLE 200MG						2		1.50		3.00
+  29	  GEBEDOL						1		5.00		5.00
+  30	  CITRO-C						1		3.50		3.50
+  31	  FOLIC ACID						1		0.60		0.60
+  32	  ASMADRIN						1		1.50		1.50
+  33	  VERMOX						1		26.00		26.00
+  34	  LYDIA POSTPILL						1		15.50		15.50
+  35	  JOY OINTMENT						1		7.00		7.00
+  36	  MALAFAN TAB						1		3.00		3.00
+  37	  PARACETAMOL TAB						1		2.00		2.00
+  38	  PREDNISOLONE 5MG						1		1.50		1.50
+  39	  GEBEDOL						1		5.00		5.00
+  40	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  41	  LOFNAC 100						3		1.50		4.50
+  42	  PARACETAMOL TAB						1		2.00		2.00
+  43	  GEBEDOL						1		5.00		5.00
+  44	  RAPINOL						1		1.00		1.00
+  45	  LETACAM						1		2.00		2.00
+  46	  PENICILLIN V 125						1		3.00		3.00
+  47	  PARACETAMOL TAB						1		2.00		2.00
+  48	  RAPINOL						2		1.00		2.00
+  49	  GEBEDOL						1		5.00		5.00
+  50	  CYFEN TAB						1		3.00		3.00
+  51	  LYDIA POSTPILL						1		15.50		15.50
+  52	  POLYGEL SUSP 120ML						1		11.00		11.00
+  53	  COLDRILIF						1		8.00		8.00
+  54	  CITRO-C						1		3.50		3.50
+  55	  GEBEDOL						1		5.00		5.00
+  56	  DRAGON DELAY SPRAY						1		75.00		75.00
+  57	  PENICILLIN V 125						1		3.00		3.00
+  58	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  59	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  60	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  61	  LETACAM						1		2.00		2.00
+  62	  GEBEDOL						1		5.00		5.00
+  63	  LYDIA POSTPILL						1		15.50		15.50
+  64	  AMOXACILLIN 500MG ERNEST						2		10.00		20.00
+  65	  LOFNAC 100						10		1.50		15.00
+  66	  PENICILLIN V 125						2		3.00		6.00
+  67	  KWIK ACTION						1		2.00		2.00
+  68	  PARACETAMOL TAB						1		2.00		2.00
+  69	  FLUCLOXACILLIN CAPS 250MG						3		6.50		19.50
+  70	  WORMPLEX TAB						1		14.00		14.00
+  71	  CALAMINE OINTMENT						1		12.00		12.00
+  72	  PREDNISOLONE 5MG						2		1.50		3.00
+  73	  SALBUTAMOL TAB						2		0.50		1.00
+  74	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  75	  ZUBES LOZENGES						1		2.00		2.00
+  76	  NAKLOFEN(DUO)						2		5.00		10.00
+  77	  PARALEX-D 						1		8.00		8.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 519.80
+----------------------------------------------------------------------------------------------------------------------------------
+

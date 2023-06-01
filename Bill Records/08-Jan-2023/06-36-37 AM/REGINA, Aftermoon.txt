@@ -1,0 +1,58 @@
+
+Sales
+
+Cashier : REGINA									Date : 08/Jan/2023
+
+Shift  : Aftermoon									Time : 06:36:37 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  NO.10						3		2.00		6.00
+  2	  RHIZIN						2		1.50		3.00
+  3	  GEBEDOL						1		5.00		5.00
+  4	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  5	  FOLIC ACID						2		0.60		1.20
+  6	  PREGNANCY TEST KIT						1		3.00		3.00
+  7	  KWIK ACTION						1		2.00		2.00
+  8	  RAPINOL						1		1.00		1.00
+  9	  APC 50X4						1		1.00		1.00
+  10	  IBUCAP S/S						1		3.50		3.50
+  11	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  12	  CHLORAMPHINAMINE						2		1.00		2.00
+  13	  PREGNANCY TEST KIT						1		3.00		3.00
+  14	  ORS						2		1.50		3.00
+  15	  FIESTA CONDOM						1		7.00		7.00
+  16	  PARALEX-D 						1		8.00		8.00
+  17	  LOPERAMIDE						1		3.00		3.00
+  18	  PERMOXYL						1		17.00		17.00
+  19	  ANCIGEL O						1		30.00		30.00
+  20	  DOLOPINE EXTRA						1		5.50		5.50
+  21	  KOFFEX ADULT						1		16.00		16.00
+  22	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  23	  PENICILLIN V 125						1		3.00		3.00
+  24	  COLDRILIF						1		8.00		8.00
+  25	  SECLEAR EYE DROP						1		22.00		22.00
+  26	  SEPTRIN						1		3.00		3.00
+  27	  METRONIDAZOLE 200MG						1		1.50		1.50
+  28	  EFPAC						1		3.00		3.00
+  29	  LONART 20/120 TAB						1		15.00		15.00
+  30	  ZUDREX						1		2.00		2.00
+  31	  PAINGAY CAPS						1		10.00		10.00
+  32	  PARACETAMOL TAB						1		2.00		2.00
+  33	  MALAR-2 SUSP						1		26.00		26.00
+  34	  METAGYL SYR						1		14.00		14.00
+  35	  PERMOXYL						1		17.00		17.00
+  36	  ZUBES LOZENGES						1		2.00		2.00
+  37	  KWIK ACTION						1		2.00		2.00
+  38	  LOFNAC TAB						1		4.00		4.00
+  39	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  40	  ASMADRIN						2		1.50		3.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 274.20
+----------------------------------------------------------------------------------------------------------------------------------
+

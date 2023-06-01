@@ -1,0 +1,85 @@
+
+Sales
+
+Cashier : REGINA									Date : 12/Jan/2023
+
+Shift  : Aftermoon									Time : 11:58:16 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  PREGNANCY TEST KIT						2		3.00		6.00
+  2	  IBUCAP S/S						1		3.50		3.50
+  3	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  4	  TRES-ORIX 100ML						1		25.00		25.00
+  5	  FOLIC ACID						2		0.60		1.20
+  6	  PARAFENAC						1		6.00		6.00
+  7	  BISACODYL						1		1.00		1.00
+  8	  LOFNAC 100						4		1.50		6.00
+  9	  AMOXACILLIN CAP 250MG						2		4.00		8.00
+  10	  PARALEX-D 						1		8.00		8.00
+  11	  EFPAC						1		3.00		3.00
+  12	  PARACETAMOL TAB						1		2.00		2.00
+  13	  CYFEN TAB						1		3.00		3.00
+  14	  MIGHTY POWER TONIC						1		30.00		30.00
+  15	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  16	  FAMACOLD						1		2.00		2.00
+  17	  MIST EXPECT SED						1		3.00		3.00
+  18	  RAPINOL						2		1.00		2.00
+  19	  TETRACYCLINE CAP						1		4.00		4.00
+  20	  METRONIDAZOLE 200MG						1		1.50		1.50
+  21	  RAPINOL						2		1.00		2.00
+  22	  INDOCIN						2		1.00		2.00
+  23	  GYPRONE PLUS TABLET						1		6.00		6.00
+  24	  WORMPLEX TAB						1		14.00		14.00
+  25	  HAYZIN						1		1.50		1.50
+  26	  FUNBART-A						1		17.00		17.00
+  27	  PARACETAMOL TAB						1		2.00		2.00
+  28	  FLUCONAZOLE - LUEX						1		9.00		9.00
+  29	  PARACETAMOL TAB						1		2.00		2.00
+  30	  DYNEWELL SYRUP						1		12.00		12.00
+  31	  ASMADRIN						1		1.50		1.50
+  32	  PARALEX-D 						1		8.00		8.00
+  33	  EFPAC						1		3.00		3.00
+  34	  KWIK ACTION						1		2.00		2.00
+  35	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  36	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  37	  PENICILLIN V 125						2		3.00		6.00
+  38	  TEEDAR						1		20.00		20.00
+  39	  ZUBES LOZENGES						1		2.00		2.00
+  40	  SAMALIN ADULT						1		18.00		18.00
+  41	  GEBEDOL						1		5.00		5.00
+  42	  METRONIDAZOLE 200MG						4		1.50		6.00
+  43	  PARACETAMOL TAB						2		2.00		4.00
+  44	  GEBEDOL						1		5.00		5.00
+  45	  ZUBES LOZENGES						1		2.00		2.00
+  46	  FOLIC ACID						2		0.60		1.20
+  47	  B.CO						1		0.50		0.50
+  48	  WORMPLEX TAB						1		14.00		14.00
+  49	  SAMALIN ADULT						1		18.00		18.00
+  50	  KWIK ACTION						1		2.00		2.00
+  51	  CITRO-C						1		3.50		3.50
+  52	  PARACETAMOL TAB						1		2.00		2.00
+  53	  B.CO						1		0.50		0.50
+  54	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  55	  RAPINOL						1		1.00		1.00
+  56	  DYNEWELL TAB						1		1.00		1.00
+  57	  CONGESTYL TAB						1		21.00		21.00
+  58	  HOT NASAL DROP						1		9.00		9.00
+  59	  KLIRE TAB						1		10.00		10.00
+  60	  PARACETAMOL TAB						1		2.00		2.00
+  61	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  62	  PARACETAMOL TAB						1		2.00		2.00
+  63	  LONART 20/120 SUSP						1		28.00		28.00
+  64	  E-PANOL						1		16.00		16.00
+  65	  NAKLOFEN(DUO)						2		5.00		10.00
+  66	  KISS CONDOM						1		6.00		6.00
+  67	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 445.90
+----------------------------------------------------------------------------------------------------------------------------------
+

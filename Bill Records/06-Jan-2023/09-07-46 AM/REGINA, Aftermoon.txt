@@ -1,0 +1,116 @@
+
+Sales
+
+Cashier : REGINA									Date : 06/Jan/2023
+
+Shift  : Aftermoon									Time : 09:07:46 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  COLDRILIF SYR						1		11.00		11.00
+  2	  RAPINOL						1		1.00		1.00
+  3	  PAINOFF						1		1.50		1.50
+  4	  PARACETAMOL TAB						1		2.00		2.00
+  5	  SEPTRIN						1		3.00		3.00
+  6	  LYDIA POSTPILL						1		15.50		15.50
+  7	  SUPER APETI						1		3.50		3.50
+  8	  ASMADRIN						1		1.50		1.50
+  9	  APC 50X4						1		1.00		1.00
+  10	  RAPINOL						1		1.00		1.00
+  11	  FAMACOLD						1		2.00		2.00
+  12	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  13	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  14	  VERMOX						1		26.00		26.00
+  15	  PARACETAMOL TAB						1		2.00		2.00
+  16	  LYDIA POSTPILL						1		15.50		15.50
+  17	  PREDNISOLONE 5MG						1		1.50		1.50
+  18	  INDOCIN						1		1.00		1.00
+  19	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  20	  NO.10						1		2.00		2.00
+  21	  HAEMOGLOBIN LETAP						1		12.00		12.00
+  22	  FENBASE						1		6.00		6.00
+  23	  WORMPLEX TAB						1		14.00		14.00
+  24	  ASMADRIN						1		1.50		1.50
+  25	  GEBEDOL						1		5.00		5.00
+  26	  PARACETAMOL TAB						1		2.00		2.00
+  27	  JOY OINTMENT						1		7.00		7.00
+  28	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  29	  SEPTRIN						1		3.00		3.00
+  30	  E-PANOL						1		10.00		10.00
+  31	  ASMADRIN						1		1.50		1.50
+  32	  PREGNANCY TEST KIT						1		3.00		3.00
+  33	  WORMPLEX TAB						1		14.00		14.00
+  34	  CITRO-C						1		3.50		3.50
+  35	  LOFNAC TAB						1		4.00		4.00
+  36	  PARACETAMOL TAB						2		2.00		4.00
+  37	  NIFEDIPINE 20MG						2		2.00		4.00
+  38	  PENICILLIN V 125						1		3.00		3.00
+  39	  PARACETAMOL TAB						1		2.00		2.00
+  40	  LONART 20/120 SUSP						1		28.00		28.00
+  41	  CITRO-C						1		3.50		3.50
+  42	  RAPINOL						2		1.00		2.00
+  43	  MULTIVITE						2		0.60		1.20
+  44	  FENBASE						1		6.00		6.00
+  45	  MARK-2 INHALER						1		10.50		10.50
+  46	  PARACETAMOL TAB						1		2.00		2.00
+  47	  WORMPLEX TAB						1		14.00		14.00
+  48	  RAPINOL						1		1.00		1.00
+  49	  GO COUGH						1		11.00		11.00
+  50	  LONART 20/120 SUSP						1		28.00		28.00
+  51	  ORS						2		1.50		3.00
+  52	  ZINTAB 20						1		1.50		1.50
+  53	  NESBEN SUSP						3		10.00		30.00
+  54	  PREDNISOLONE 5MG						1		1.50		1.50
+  55	  PARACETAMOL TAB						1		2.00		2.00
+  56	  RAPINOL						1		1.00		1.00
+  57	  FOLIC ACID						2		0.60		1.20
+  58	  ASMADRIN						2		1.50		3.00
+  59	  GEBEDOL						1		5.00		5.00
+  60	  PENICILLIN V 125						1		3.00		3.00
+  61	  ROOTER MIXTURE						1		28.00		28.00
+  62	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  63	  SALBUTAMOL TAB						4		0.50		2.00
+  64	  PREDNISOLONE 5MG						1		1.50		1.50
+  65	  SALBUTAMOL TAB						1		0.50		0.50
+  66	  GACET 250						3		1.50		4.50
+  67	  ADOM KOO CAPS						2		1.00		2.00
+  68	  COLDRILIF						1		8.00		8.00
+  69	  STREPTOL						2		4.00		8.00
+  70	  KWIK ACTION						1		2.00		2.00
+  71	  NO.10						3		2.00		6.00
+  72	  FENBASE						1		6.00		6.00
+  73	  COLDRILIF						1		8.00		8.00
+  74	  PARACETAMOL TAB						1		2.00		2.00
+  75	  LOFNAC 100						2		1.50		3.00
+  76	  SEPTRIN						1		3.00		3.00
+  77	  PARACETAMOL TAB						1		2.00		2.00
+  78	  KWIK ACTION						1		2.00		2.00
+  79	  WORMPLEX TAB						1		14.00		14.00
+  80	  PAINGAY CAPS						1		10.00		10.00
+  81	  CITRO-C						1		3.50		3.50
+  82	  LEENA CAPS						2		11.00		22.00
+  83	  DYNEWELL SYRUP						1		12.00		12.00
+  84	  ZUBES LOZENGES						1		2.00		2.00
+  85	  GAUZE BANAGE 4'						1		1.50		1.50
+  86	  KWIK ACTION						1		2.00		2.00
+  87	  PARACETAMOL TAB						2		2.00		4.00
+  88	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  89	  RAPINOL						3		1.00		3.00
+  90	  KWIK ACTION						1		2.00		2.00
+  91	  GAUZE BANAGE 4'						1		1.50		1.50
+  92	  VERMOX						1		26.00		26.00
+  93	  KWIK ACTION						1		2.00		2.00
+  94	  RAPINOL						1		1.00		1.00
+  95	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  96	  POLYGEL SUSP 120ML						1		11.00		11.00
+  97	  TEEDAR						1		20.00		20.00
+  98	  FAMACOLD						1		2.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 609.90
+----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,91 @@
+
+Sales
+
+Cashier : REGINA									Date : 03/Jan/2023
+
+Shift  : Aftermoon									Time : 09:24:36 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  JET 2						1		13.00		13.00
+  2	  PREDNISOLONE 5MG						2		1.50		3.00
+  3	  INDOCIN						2		1.00		2.00
+  4	  PARACETAMOL TAB						1		2.00		2.00
+  5	  RAPINOL						1		1.00		1.00
+  6	  PARAFENAC						1		6.00		6.00
+  7	  EFPAC						1		3.00		3.00
+  8	  PARACETAMOL TAB						1		2.00		2.00
+  9	  APC 50X4						1		1.00		1.00
+  10	  PARACETAMOL TAB						1		2.00		2.00
+  11	  PENICILLIN V 125						1		3.00		3.00
+  12	  METRONIDAZOLE 200MG						1		1.50		1.50
+  13	  GEBEDOL						1		5.00		5.00
+  14	  KOFFEX ADULT						1		16.00		16.00
+  15	  COLDRILIF						1		8.00		8.00
+  16	  AMOKSIKLOV SUSP 228 (M&G)						1		26.00		26.00
+  17	  ERNEST TEETHING MIXTURE						1		26.00		26.00
+  18	  CITRO-C						1		3.50		3.50
+  19	  RAPINOL						1		1.00		1.00
+  20	  FOLIC ACID						2		0.60		1.20
+  21	  PREGNANCY TEST KIT						1		3.00		3.00
+  22	  COLDRID						1		2.00		2.00
+  23	  PARACETAMOL TAB						1		2.00		2.00
+  24	  DICLONOVA PLUS						1		4.50		4.50
+  25	  COLDRID						3		2.00		6.00
+  26	  PARACETAMOL TAB						1		2.00		2.00
+  27	  COLDRID						1		2.00		2.00
+  28	  IBUCAP						1		5.50		5.50
+  29	  BRUFEN 400MG						1		1.50		1.50
+  30	  IBUCAP						1		5.50		5.50
+  31	  PARACETAMOL TAB						1		2.00		2.00
+  32	  TRES-ORIX 250NL						1		45.00		45.00
+  33	  CREPE BANAGE 4'						1		11.00		11.00
+  34	  LUFART DS						1		31.00		31.00
+  35	  KLIRE TAB						1		10.00		10.00
+  36	  WORMPLEX TAB						1		14.00		14.00
+  37	  GASTRONE SUSP						1		25.50		25.50
+  38	  COLDRID						2		2.00		4.00
+  39	  MALARIA TEST KIT						2		10.00		20.00
+  40	  PARACETAMOL TAB						1		2.00		2.00
+  41	  PREDNISOLONE 5MG						1		1.50		1.50
+  42	  PARACETAMOL TAB						1		2.00		2.00
+  43	  LOFNAC 100						2		1.50		3.00
+  44	  GEBEDOL						1		5.00		5.00
+  45	  RAPINOL						1		1.00		1.00
+  46	  GEBEDOL						1		5.00		5.00
+  47	  PREGNANCY TEST KIT						1		3.00		3.00
+  48	  GLUCO-D						1		8.00		8.00
+  49	  LYDIA POSTPILL						1		15.50		15.50
+  50	  LOFNAC TAB						1		4.00		4.00
+  51	  GEBEDOL						1		5.00		5.00
+  52	  SEPTRIN						1		3.00		3.00
+  53	  SALBUTAMOL TAB						5		0.50		2.50
+  54	  LOPERAMIDE						1		3.00		3.00
+  55	  WORMPLEX TAB						1		14.00		14.00
+  56	  PARACETAMOL TAB						1		2.00		2.00
+  57	  AKES CAPS						1		4.00		4.00
+  58	  NO.10						1		2.00		2.00
+  59	  EFPAC						1		3.00		3.00
+  60	  SAMALIN JUNIOR 1M-12YRS						1		18.00		18.00
+  61	  PARACETAMOL TAB						1		2.00		2.00
+  62	  CITRO-C						1		3.50		3.50
+  63	  RAPINOL						1		1.00		1.00
+  64	  EFPAC						1		3.00		3.00
+  65	  RAPINOL						2		1.00		2.00
+  66	  PARACETAMOL TAB						2		2.00		4.00
+  67	  LOPERAMIDE						1		3.00		3.00
+  68	  WORMPLEX TAB						1		14.00		14.00
+  69	  GEBEDOL						1		5.00		5.00
+  70	  MIST SENACO						1		7.00		7.00
+  71	  GEBEDOL						1		5.00		5.00
+  72	  WORMPLEX TAB						1		14.00		14.00
+  73	  NESBEN SUSP						1		10.00		10.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 502.70
+----------------------------------------------------------------------------------------------------------------------------------
+

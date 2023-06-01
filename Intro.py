@@ -10,7 +10,7 @@ class splash:
         self.splashminw.title("About")
         width = 1000
         height = 700
-        self.splashminw.config(bg="#0dd932")
+        self.splashminw.config(bg="#096e5b")
         screen_width = self.splashminw.winfo_screenwidth()
         screen_height = self.splashminw.winfo_screenheight()
         x = (screen_width / 2) - (width / 2)

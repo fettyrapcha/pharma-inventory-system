@@ -1,0 +1,109 @@
+
+Sales
+
+Cashier : CEE									Date : 08/Jan/2023
+
+Shift  : Aftermoon									Time : 08:31:00 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  LETALIN						1		6.50		6.50
+  2	  DYNEWELL TAB						3		1.00		3.00
+  3	  KISS CONDOM						1		6.00		6.00
+  4	  TETRACYCLINE CAP						1		4.00		4.00
+  5	  EFPAC						1		3.00		3.00
+  6	  FAMACOLD						1		2.00		2.00
+  7	  FINELIFE						1		10.50		10.50
+  8	  MALARIA TEST KIT						1		10.00		10.00
+  9	  E-PANOL						1		10.00		10.00
+  10	  PANACIN						1		3.00		3.00
+  11	  DYNEWELL SYRUP						1		12.00		12.00
+  12	  HAEMOGLOBIN LETAP						1		12.00		12.00
+  13	  WORMPLEX TAB						1		14.00		14.00
+  14	  RUFEDOL						1		2.50		2.50
+  15	  PREDNISOLONE 5MG						1		1.50		1.50
+  16	  GEBEDOL						1		5.00		5.00
+  17	  MIST EXPECT SED						1		3.00		3.00
+  18	  PARACETAMOL TAB						2		2.00		4.00
+  19	  NO.10						1		2.00		2.00
+  20	  RAPINOL						3		1.00		3.00
+  21	  FERROUS TAB						2		9.00		18.00
+  22	  CHLORAMPHENICOL EYE OINTMENT						1		6.00		6.00
+  23	  CIPRO-VYCED						1		6.00		6.00
+  24	  PREDNISOLONE 5MG						1		1.50		1.50
+  25	  INDOCIN						1		1.00		1.00
+  26	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  27	  PREGNANCY TEST KIT						1		3.00		3.00
+  28	  GEBEDOL						1		5.00		5.00
+  29	  PAINGAY CAPS						1		10.00		10.00
+  30	  CITRO-C						1		3.50		3.50
+  31	  METRONIDAZOLE 200MG						1		1.50		1.50
+  32	  WORMPLEX TAB						1		14.00		14.00
+  33	  LOFNAC TAB						1		4.00		4.00
+  34	  DOLOPINE EXTRA						1		5.50		5.50
+  35	  WORMPLEX TAB						1		14.00		14.00
+  36	  CITRO-C						1		3.50		3.50
+  37	  DEXONE						1		4.00		4.00
+  38	  PARACETAMOL TAB						2		2.00		4.00
+  39	  METRONIDAZOLE 200MG						1		1.50		1.50
+  40	  FLUCLOXACILLIN CAPS 250MG						2		6.50		13.00
+  41	  COTTON						2		1.00		2.00
+  42	  SAMALIN ADULT						1		18.00		18.00
+  43	  PARACETAMOL TAB						1		2.00		2.00
+  44	  MULTIVITE						2		0.60		1.20
+  45	  B.CO						1		0.50		0.50
+  46	  FOLIGROW						1		40.00		40.00
+  47	  PAINGAY CAPS						1		10.00		10.00
+  48	  MALARIA TEST KIT						1		10.00		10.00
+  49	  KISS CONDOM						1		6.00		6.00
+  50	  NO.10						1		2.00		2.00
+  51	  KWIK ACTION						1		2.00		2.00
+  52	  DOLOPINE EXTRA						1		5.50		5.50
+  53	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  54	  E-PANOL						1		10.00		10.00
+  55	  SECLEAR EYE DROP						1		22.00		22.00
+  56	  COLDRILIF SYR						1		11.00		11.00
+  57	  PAINGAY CAPS						1		10.00		10.00
+  58	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  59	  PREGNANCY TEST KIT						1		3.00		3.00
+  60	  PREDNISOLONE 5MG						1		1.50		1.50
+  61	  MIST EXPECT SED						1		3.00		3.00
+  62	  MIST MAGTRISILICATE						1		6.50		6.50
+  63	  LYDIA POSTPILL						1		15.50		15.50
+  64	  PINPAC EXTRA						1		4.00		4.00
+  65	  GEBEDOL						1		5.00		5.00
+  66	  CITRO-C						1		3.50		3.50
+  67	  GACET 125						1		1.50		1.50
+  68	  ASMADRIN						2		1.50		3.00
+  69	  STOPKOF AQDULT(EXP)						1		12.00		12.00
+  70	  RAPINOL						1		1.00		1.00
+  71	  NO.10						2		2.00		4.00
+  72	  PREDNISOLONE 5MG						1		1.50		1.50
+  73	  SALBUTAMOL TAB						1		0.50		0.50
+  74	  BOAFO						1		10.00		10.00
+  75	  GEBEDOL						1		5.00		5.00
+  76	  LOFNAC 100						3		1.50		4.50
+  77	  PARACETAMOL TAB						1		2.00		2.00
+  78	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  79	  RAPINOL						1		1.00		1.00
+  80	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  81	  LYDIA POSTPILL						1		15.50		15.50
+  82	  RONADOL TABS						1		5.00		5.00
+  83	  CITRO-C						1		3.50		3.50
+  84	  GEBEDOL						1		5.00		5.00
+  85	  JOY OINTMENT						1		7.00		7.00
+  86	  PARACETAMOL TAB						1		2.00		2.00
+  87	  CITRO-C						1		3.50		3.50
+  88	  ROBB INHALER						1		5.00		5.00
+  89	  KWIK ACTION						2		2.00		4.00
+  90	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  91	  LYDIA POSTPILL						1		15.50		15.50
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 571.20
+----------------------------------------------------------------------------------------------------------------------------------
+

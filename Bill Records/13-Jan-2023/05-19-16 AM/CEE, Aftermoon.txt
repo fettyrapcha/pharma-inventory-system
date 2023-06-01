@@ -1,0 +1,71 @@
+
+Sales
+
+Cashier : CEE									Date : 13/Jan/2023
+
+Shift  : Aftermoon									Time : 05:19:16 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  PENICILLIN V 125						1		3.00		3.00
+  2	  RAPINOL						1		1.00		1.00
+  3	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  4	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  5	  PREDNISOLONE 5MG						1		1.50		1.50
+  6	  HAYZIN						1		1.50		1.50
+  7	  RAPINOL						2		1.00		2.00
+  8	  LOFNAC TAB						1		4.00		4.00
+  9	  PAINGAY CAPS						1		10.00		10.00
+  10	  G.V PAINT						1		4.00		4.00
+  11	  METHYLATED SPIRIT 60ML						1		4.00		4.00
+  12	  PARACETAMOL TAB						1		2.00		2.00
+  13	  ZUBES LOZENGES						1		2.00		2.00
+  14	  PERMOXYL						1		18.00		18.00
+  15	  PARACETAMOL TAB						1		2.00		2.00
+  16	  KWIK ACTION						1		2.00		2.00
+  17	  PREDNISOLONE 5MG						1		1.50		1.50
+  18	  INDOCIN						1		1.00		1.00
+  19	  AZILEX 250MG CAPS						1		27.00		27.00
+  20	  CITRO-C						1		3.50		3.50
+  21	  REEDY						1		45.00		45.00
+  22	  PARACETAMOL TAB						1		2.00		2.00
+  23	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  24	  BRUFEN 400MG						1		2.00		2.00
+  25	  RAPINOL						3		1.00		3.00
+  26	  RAPINOL						1		1.00		1.00
+  27	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  28	  ANCIGEL O						1		30.00		30.00
+  29	  DOLOTAB						1		2.50		2.50
+  30	  AMLODIPINE 10MG						1		9.00		9.00
+  31	  PREDNISOLONE 5MG						1		1.50		1.50
+  32	  INDOCIN						1		1.00		1.00
+  33	  LOPERAMIDE						1		3.00		3.00
+  34	  PREGNANCY TEST KIT						1		3.00		3.00
+  35	  PARACETAMOL TAB						1		2.00		2.00
+  36	  GEBEDOL						1		5.00		5.00
+  37	  PARACETAMOL TAB						1		2.00		2.00
+  38	  PENICILLIN V 125						1		3.00		3.00
+  39	  KWIK ACTION						1		2.00		2.00
+  40	  COLDRID						1		2.00		2.00
+  41	  HAYZIN						1		1.50		1.50
+  42	  LETAVIN 125MG						1		3.00		3.00
+  43	  INDOCIN						1		1.00		1.00
+  44	  ZUBES LOZENGES						1		2.00		2.00
+  45	  RAPINOL						1		1.00		1.00
+  46	  SAMALIN ADULT						1		18.00		18.00
+  47	  NO.10						2		2.00		4.00
+  48	  SEPTRIN						1		3.00		3.00
+  49	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  50	  LYDIA POSTPILL						1		15.50		15.50
+  51	  CITRO-C						1		3.50		3.50
+  52	  STREPTOL						1		4.00		4.00
+  53	  RAPINOL						2		1.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 289.00
+----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,77 @@
+
+Sales
+
+Cashier : REGINA									Date : 10/Jan/2023
+
+Shift  : Aftermoon									Time : 12:48:29 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  RAPINOL						1		1.00		1.00
+  2	  EPHEDRINE NASAL DROP 0.5						4		6.00		24.00
+  3	  RAPINOL						2		1.00		2.00
+  4	  POLYGEL SUSP 200ML						1		16.00		16.00
+  5	  GACET 250						1		1.50		1.50
+  6	  TAABEA HERBAL MIXTURE						1		30.00		30.00
+  7	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  8	  MULTIVITE						2		0.60		1.20
+  9	  PREGNANCY TEST KIT						1		3.00		3.00
+  10	  PANACIN						1		3.00		3.00
+  11	  LETACAM						1		2.00		2.00
+  12	  PARACETAMOL TAB						1		2.00		2.00
+  13	  CITRO-C						1		3.50		3.50
+  14	  LOFNAC 100						3		1.50		4.50
+  15	  GEBEDOL						2		5.00		10.00
+  16	  PARACETAMOL TAB						1		2.00		2.00
+  17	  WORMPLEX TAB						1		14.00		14.00
+  18	  TANZOL SYR						1		3.00		3.00
+  19	  COLDRILIF						1		8.00		8.00
+  20	  NO.10						1		2.00		2.00
+  21	  LOFNAC 100						1		1.50		1.50
+  22	  LOPERAMIDE						1		3.00		3.00
+  23	  LIBRUM						1		3.00		3.00
+  24	  GEBEDOL						1		5.00		5.00
+  25	  PAINGAY CAPS						1		10.00		10.00
+  26	  PARACETAMOL TAB						1		2.00		2.00
+  27	  PREGNANCY TEST KIT						1		3.00		3.00
+  28	  ASMADRIN						2		1.50		3.00
+  29	  GEBEDOL						1		5.00		5.00
+  30	  INDOCIN						2		1.00		2.00
+  31	  MIST MAGTRISILICATE						1		6.50		6.50
+  32	  STREPTOL						1		4.00		4.00
+  33	  GEBEDOL						1		5.00		5.00
+  34	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  35	  GEBEDOL						1		5.00		5.00
+  36	  PARACETAMOL TAB						1		2.00		2.00
+  37	  ZUBES LOZENGES						1		2.00		2.00
+  38	  METRONIDAZOLE 200MG						1		1.50		1.50
+  39	  FOLIC ACID						1		0.60		0.60
+  40	  B.CO						1		0.50		0.50
+  41	  MULTIVITE						1		0.60		0.60
+  42	  RAPINOL						1		1.00		1.00
+  43	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  44	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  45	  NO.10						1		2.00		2.00
+  46	  LOPERAMIDE						1		3.00		3.00
+  47	  DOLOTAB						1		2.50		2.50
+  48	  VIKIL-20						1		43.00		43.00
+  49	  DOLOTAB						1		2.50		2.50
+  50	  PENICILLIN V 125						2		3.00		6.00
+  51	  ROUGH RIDER						1		26.00		26.00
+  52	  PARACETAMOL TAB						1		2.00		2.00
+  53	  ADOM KOO CAPS						4		1.00		4.00
+  54	  RAPINOL						1		1.00		1.00
+  55	  GEBEDOL						1		5.00		5.00
+  56	  B.CO						4		0.50		2.00
+  57	  MULTIVITE						4		0.60		2.40
+  58	  PAINGAY CAPS						1		10.00		10.00
+  59	  CITRO-C						1		3.50		3.50
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 327.80
+----------------------------------------------------------------------------------------------------------------------------------
+

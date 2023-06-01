@@ -1,0 +1,100 @@
+
+Sales
+
+Cashier : CEE									Date : 08/Jan/2023
+
+Shift  : Aftermoon									Time : 11:05:44 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  COTTON						2		1.00		2.00
+  2	  PARACETAMOL TAB						2		2.00		4.00
+  3	  LETACAM						4		2.00		8.00
+  4	  MULTIVITE						3		0.60		1.80
+  5	  PAINOFF						1		1.50		1.50
+  6	  DEXONE						1		4.00		4.00
+  7	  RAPINOL						1		1.00		1.00
+  8	  PREDNISOLONE 5MG						2		1.50		3.00
+  9	  PARACETAMOL TAB						1		2.00		2.00
+  10	  MULTIVITE						1		0.60		0.60
+  11	  CITRO-C						2		3.50		7.00
+  12	  PREGNANCY TEST KIT						1		3.00		3.00
+  13	  ZUBES LOZENGES						1		2.00		2.00
+  14	  ASMADRIN						1		1.50		1.50
+  15	  RAPINOL						1		1.00		1.00
+  16	  EFPAC						1		3.00		3.00
+  17	  LETACAM						1		2.00		2.00
+  18	  WORMPLEX TAB						1		14.00		14.00
+  19	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  20	  PARACETAMOL TAB						2		2.00		4.00
+  21	  SEPTRIN						1		3.00		3.00
+  22	  RONADOL TABS						1		5.00		5.00
+  23	  INDOCIN						2		1.00		2.00
+  24	  LYDIA POSTPILL						1		15.50		15.50
+  25	  METFORMIN (ERNEST)						3		1.50		4.50
+  26	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  27	  LYDIA POSTPILL						1		15.50		15.50
+  28	  AUNTIE MARY'S GRIPE WATER						1		30.00		30.00
+  29	  ASMADRIN						1		1.50		1.50
+  30	  FAMACOLD						1		2.00		2.00
+  31	  DOLOPINE EXTRA						1		5.50		5.50
+  32	  PENICILLIN V 125						1		3.00		3.00
+  33	  AMLODIPINE 10MG						1		9.00		9.00
+  34	  LETAVIN 125MG						1		3.00		3.00
+  35	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  36	  LIBRUM						1		3.00		3.00
+  37	  CHLORAMPHINAMINE						1		1.00		1.00
+  38	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  39	  KWIK ACTION						1		2.00		2.00
+  40	  DYNEWELL SYRUP						1		12.00		12.00
+  41	  GEBEDOL						1		5.00		5.00
+  42	  WINZOLE						1		3.00		3.00
+  43	  LYDIA POSTPILL						1		15.50		15.50
+  44	  WORMPLEX TAB						1		14.00		14.00
+  45	  CITRO-C						1		3.50		3.50
+  46	  PENICILLIN V 125						1		3.00		3.00
+  47	  CITRO-C						1		3.50		3.50
+  48	  ZUBES LOZENGES						3		2.00		6.00
+  49	  RONADOL TABS						1		5.00		5.00
+  50	  FOLIC ACID						3		0.60		1.80
+  51	  PARACETAMOL TAB						1		2.00		2.00
+  52	  BRUFEN 200MG						1		1.50		1.50
+  53	  LETALIN						2		6.50		13.00
+  54	  COLDRILIF						1		8.00		8.00
+  55	  PANACIN						2		3.00		6.00
+  56	  SAMALIN ADULT						1		18.00		18.00
+  57	  INDOCIN						1		1.00		1.00
+  58	  FAMACOLD						1		2.00		2.00
+  59	  WORMPLEX TAB						1		14.00		14.00
+  60	  LETALIN						1		6.50		6.50
+  61	  GEBEDOL						1		5.00		5.00
+  62	  GEBEDOL						1		5.00		5.00
+  63	  KWIK ACTION						1		2.00		2.00
+  64	  GEBEDOL						1		5.00		5.00
+  65	  CITRO-C						1		3.50		3.50
+  66	  CITRO-C						1		3.50		3.50
+  67	  EFPAC						1		3.00		3.00
+  68	  EFPAC						1		3.00		3.00
+  69	  POLYFER FORTE 150ML						1		25.00		25.00
+  70	  PINPAC EXTRA						1		4.00		4.00
+  71	  PARACETAMOL TAB						1		2.00		2.00
+  72	  PREDNISOLONE 5MG						1		1.50		1.50
+  73	  NEXCOFER TONIC						1		27.00		27.00
+  74	  GAUZE BANAGE 3''						2		1.00		2.00
+  75	  RAPINOL						2		1.00		2.00
+  76	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  77	  GEBEDOL						1		5.00		5.00
+  78	  HAYZIN						3		1.50		4.50
+  79	  KOFLET						1		46.00		46.00
+  80	  PARACETAMOL TAB						1		2.00		2.00
+  81	  STREPTOL						2		4.00		8.00
+  82	  RAPINOL						1		1.00		1.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 499.20
+----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,67 @@
+
+Sales
+
+Cashier : CEE									Date : 05/Jan/2023
+
+Shift  : Aftermoon									Time : 08:08:05 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  EFPAC						1		3.00		3.00
+  2	  LETALIN						1		6.50		6.50
+  3	  LEENA CAPS						1		11.00		11.00
+  4	  SALBUTAMOL TAB						1		0.50		0.50
+  5	  SALBUTAMOL TAB						1		0.50		0.50
+  6	  ASMADRIN						3		1.50		4.50
+  7	  CITRO-C						1		3.50		3.50
+  8	  PENICILLIN V 125						1		3.00		3.00
+  9	  LETALIN						1		6.50		6.50
+  10	  MENTHODEX COUGH 200ML						1		40.00		40.00
+  11	  AMOXACILLIN CAPS TOBIN						2		5.00		10.00
+  12	  POLYGEL SUSP 120ML						1		11.00		11.00
+  13	  CITRO-C						1		3.50		3.50
+  14	  LOPERAMIDE						1		3.00		3.00
+  15	  FUMET SUSP						1		10.00		10.00
+  16	  PAINGAY CAPS						1		10.00		10.00
+  17	  AMOXACILLIN CAPS TOBIN						2		5.00		10.00
+  18	  EFPAC						1		3.00		3.00
+  19	  IBUCAP S/S						1		3.50		3.50
+  20	  LOFNAC 100						2		1.50		3.00
+  21	  TOT'HEMA						16		8.00		128.00
+  22	  FENBASE						1		6.00		6.00
+  23	  RAPINOL						1		1.00		1.00
+  24	  PENICILLIN V 125						1		3.00		3.00
+  25	  AMPICILLIN CAPS(LETAP)						1		3.50		3.50
+  26	  PARACETAMOL TAB						1		2.00		2.00
+  27	  FLUCLOXACILLIN CAPS 250MG						3		6.50		19.50
+  28	  FIESTA CONDOM						1		7.00		7.00
+  29	  CITRO-C						1		3.50		3.50
+  30	  FIESTA CONDOM						3		7.00		21.00
+  31	  MAGACIDE TAB						2		1.00		2.00
+  32	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  33	  PARACETAMOL TAB						1		2.00		2.00
+  34	  CHLORAMPHINAMINE						2		1.00		2.00
+  35	  ADUTWUMWAA						2		1.00		2.00
+  36	  NEXCOFER TONIC						1		27.00		27.00
+  37	  NO.10						2		2.00		4.00
+  38	  CHLORAMPHENICOL EYE OINTMENT						1		6.00		6.00
+  39	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  40	  PENICILLIN V 125						1		3.00		3.00
+  41	  CITRO-C						1		3.50		3.50
+  42	  AMLODIPINE 10MG						1		9.00		9.00
+  43	  FENBASE						2		6.00		12.00
+  44	  LONART 20/120 TAB						1		15.00		15.00
+  45	  KWIK ACTION						2		2.00		4.00
+  46	  LUFART DS						1		31.00		31.00
+  47	  VIROL						1		22.00		22.00
+  48	  AZITEX						1		30.00		30.00
+  49	  COLDRILIF						1		8.00		8.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 531.00
+----------------------------------------------------------------------------------------------------------------------------------
+

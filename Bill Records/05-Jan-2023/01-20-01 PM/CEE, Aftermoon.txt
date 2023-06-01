@@ -1,0 +1,113 @@
+
+Sales
+
+Cashier : CEE									Date : 05/Jan/2023
+
+Shift  : Aftermoon									Time : 01:20:01 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  EFPAC						1		3.00		3.00
+  2	  EFPAC JUNIOR						1		24.00		24.00
+  3	  KELCUF BABY						1		8.00		8.00
+  4	  AUNTIE MARY'S GRIPE WATER						1		30.00		30.00
+  5	  GACET 125						1		1.50		1.50
+  6	  GEBEDOL						1		5.00		5.00
+  7	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  8	  SEPTRIN						1		3.00		3.00
+  9	  RAPINOL						1		1.00		1.00
+  10	  ZUDREX						1		2.00		2.00
+  11	  PARACETAMOL TAB						1		2.00		2.00
+  12	  COLDRID						1		2.00		2.00
+  13	  DITHRANOL OINT						1		15.00		15.00
+  14	  GRISEOFULVIN TAB 500						1		15.00		15.00
+  15	  RHIZIN						2		1.50		3.00
+  16	  ROBB INHALER						1		5.00		5.00
+  17	  JOY OINTMENT						1		7.00		7.00
+  18	  PARACETAMOL TAB						1		2.00		2.00
+  19	  LETALIN						1		6.50		6.50
+  20	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  21	  GEBEDOL						1		5.00		5.00
+  22	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  23	  INDOCIN						1		1.00		1.00
+  24	  INDOCIN						1		1.00		1.00
+  25	  APC 50X4						1		1.00		1.00
+  26	  ROBB INHALER						1		5.00		5.00
+  27	  EFPAC						1		3.00		3.00
+  28	  KWIK ACTION						1		2.00		2.00
+  29	  STOPKOF ADULT						1		15.00		15.00
+  30	  COLDRID						1		2.00		2.00
+  31	  CHLORAMPHENICOL EYE OINTMENT						1		6.00		6.00
+  32	  PARACETAMOL TAB						2		2.00		4.00
+  33	  STOPKOF AQDULT(EXP)						1		12.00		12.00
+  34	  REEDY						1		44.00		44.00
+  35	  COLDRILIF						1		8.00		8.00
+  36	  RHIZIN						1		1.50		1.50
+  37	  METAGYL SYR						1		14.00		14.00
+  38	  LONART 20/120 SUSP						2		28.00		56.00
+  39	  NESBEN SUSP						1		10.00		10.00
+  40	  CITRO-C						1		3.50		3.50
+  41	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  42	  COLDRID						1		2.00		2.00
+  43	  AMOXYL CAPS 500MG (G.R)						15		1.20		18.00
+  44	  TANZOL						1		5.00		5.00
+  45	  MILK OF MAGNESIA 120ML						1		16.00		16.00
+  46	  FLUCONAZOLE - GV						1		9.00		9.00
+  47	  TANZOL						1		5.00		5.00
+  48	  PARACETAMOL TAB						1		2.00		2.00
+  49	  TEEDAR						1		20.00		20.00
+  50	  GEBEDOL						1		5.00		5.00
+  51	  PARACETAMOL TAB						2		2.00		4.00
+  52	  MULTIVITE						2		0.60		1.20
+  53	  DOXYCLINE (ERNEST)						2		8.00		16.00
+  54	  ZUBES CHILD COUGH						1		15.00		15.00
+  55	  COLDRILIF						1		8.00		8.00
+  56	  CITRO-C						1		3.50		3.50
+  57	  KWIK ACTION						1		2.00		2.00
+  58	  RAPINOL						1		1.00		1.00
+  59	  ASMADRIN						1		1.50		1.50
+  60	  LOPERAMIDE						1		3.00		3.00
+  61	  CITRO-C						1		3.50		3.50
+  62	  FAMACOLD						3		2.00		6.00
+  63	  COLDRID						1		2.00		2.00
+  64	  ZUDREX						1		2.00		2.00
+  65	  COLDRILIF						2		8.00		16.00
+  66	  PARALEX-D 						1		8.00		8.00
+  67	  LYDIA POSTPILL						1		15.50		15.50
+  68	  ROBB INHALER						1		5.00		5.00
+  69	  ALUMINIUM HYDROXIDE						2		2.00		4.00
+  70	  TETRACYCLINE CAP						1		3.00		3.00
+  71	  METRONIDAZOLE 200MG						1		1.50		1.50
+  72	  MALAR-2 FORTE DS						1		25.00		25.00
+  73	  GEBEDOL						1		5.00		5.00
+  74	  CITRO-C						1		3.50		3.50
+  75	  NO.10						2		2.00		4.00
+  76	  METRONIDAZOLE 200MG						1		1.50		1.50
+  77	  CITRO-C						1		3.50		3.50
+  78	  DEXONE						1		4.00		4.00
+  79	  RAPINOL						2		1.00		2.00
+  80	  METRONIDAZOLE (DANGYL) 400MG						2		3.00		6.00
+  81	  COLDRID						1		2.00		2.00
+  82	  CITRO-C						1		3.50		3.50
+  83	  PARACETAMOL TAB						1		2.00		2.00
+  84	  KWIK ACTION						1		2.00		2.00
+  85	  COLDRID						2		2.00		4.00
+  86	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  87	  METRONIDAZOLE 200MG						1		1.50		1.50
+  88	  FIESTA CONDOM						1		7.00		7.00
+  89	  AMOXYL CAPS 500MG (G.R)						15		1.20		18.00
+  90	  COLDRID						2		2.00		4.00
+  91	  SAMALIN ADULT						1		18.00		18.00
+  92	  CITRO-C						2		3.50		7.00
+  93	  COLDRID						1		2.00		2.00
+  94	  PREGNANCY TEST KIT						1		3.00		3.00
+  95	  PARACETAMOL TAB						2		2.00		4.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 687.70
+----------------------------------------------------------------------------------------------------------------------------------
+

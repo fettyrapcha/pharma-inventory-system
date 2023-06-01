@@ -1,0 +1,99 @@
+
+Sales
+
+Cashier : CEE									Date : 10/Jan/2023
+
+Shift  : Aftermoon									Time : 02:19:41 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  PARACETAMOL TAB						1		2.00		2.00
+  2	  DEXONE						1		4.00		4.00
+  3	  GEBEDOL						1		5.00		5.00
+  4	  RAPINOL						5		1.00		5.00
+  5	  SEPTRIN						2		3.00		6.00
+  6	  INDOCIN						1		1.00		1.00
+  7	  PARACETAMOL TAB						1		2.00		2.00
+  8	  KISS CONDOM						1		6.00		6.00
+  9	  ZENTEL						1		26.00		26.00
+  10	  GEBEDOL						1		5.00		5.00
+  11	  PARACETAMOL TAB						1		2.00		2.00
+  12	  RAPINOL						1		1.00		1.00
+  13	  INDOCIN						1		1.00		1.00
+  14	  PARACETAMOL TAB						3		2.00		6.00
+  15	  ENACEF						1		22.00		22.00
+  16	  AMLODIPINE 10MG						1		9.00		9.00
+  17	  PARACETAMOL TAB						1		2.00		2.00
+  18	  ANCIGEL O						1		30.00		30.00
+  19	  JOY OINTMENT						1		7.00		7.00
+  20	  ZUBES ADULT						1		34.00		34.00
+  21	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  22	  ASMANOL						2		1.50		3.00
+  23	  PREDNISOLONE 5MG						1		1.50		1.50
+  24	  PARACETAMOL TAB						1		2.00		2.00
+  25	  RAPINOL						1		1.00		1.00
+  26	  PREDNISOLONE 5MG						1		1.50		1.50
+  27	  PARACETAMOL TAB						2		2.00		4.00
+  28	  ZUBES LOZENGES						1		2.00		2.00
+  29	  LOFNAC 100						2		1.50		3.00
+  30	  APC 50X4						3		1.00		3.00
+  31	  STOPKOF AQDULT(EXP)						1		12.00		12.00
+  32	  KWIK ACTION						1		2.00		2.00
+  33	  FIESTA CONDOM						1		7.00		7.00
+  34	  CYFEN TAB						1		3.00		3.00
+  35	  B.CO						2		0.50		1.00
+  36	  MULTIVITE						2		0.60		1.20
+  37	  FOLIC ACID						1		0.60		0.60
+  38	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  39	  RAPINOL						2		1.00		2.00
+  40	  APC 50X4						1		1.00		1.00
+  41	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  42	  KLIRE TAB						1		10.00		10.00
+  43	  CITRO-C						1		3.50		3.50
+  44	  GEBEDOL						1		5.00		5.00
+  45	  JOY OINTMENT						1		7.00		7.00
+  46	  LYDIA POSTPILL						1		15.50		15.50
+  47	  GEBEDOL						1		5.00		5.00
+  48	  PARACETAMOL TAB						1		2.00		2.00
+  49	  TAABEA HERBAL MIXTURE						1		30.00		30.00
+  50	  BENDROFLUAZIDE 2.5MG						2		2.00		4.00
+  51	  E-PANOL						1		10.00		10.00
+  52	  WINZOLE						1		3.00		3.00
+  53	  SAMALIN JUNIOR 1M-12YRS						1		18.00		18.00
+  54	  COLDRILIF SYR						1		11.00		11.00
+  55	  CITRO-C						1		3.50		3.50
+  56	  COLDRILIF						1		8.00		8.00
+  57	  MIST MAGTRISILICATE						1		6.50		6.50
+  58	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  59	  KISS CONDOM						1		6.00		6.00
+  60	  METHYLATED SPIRIT 60ML						1		4.00		4.00
+  61	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  62	  GAUZE BANAGE 3''						1		1.00		1.00
+  63	  B.CO						1		0.50		0.50
+  64	  PARACETAMOL TAB						1		2.00		2.00
+  65	  LETALIN						1		6.50		6.50
+  66	  ZUBES LOZENGES						2		2.00		4.00
+  67	  RAPINOL						2		1.00		2.00
+  68	  BRUFEN SYRUP						1		14.00		14.00
+  69	  WORMPLEX TAB						1		14.00		14.00
+  70	  GEBEDOL						1		5.00		5.00
+  71	  PARACETAMOL TAB						1		2.00		2.00
+  72	  LOFNAC TAB						1		4.00		4.00
+  73	  EFPAC						1		3.00		3.00
+  74	  COLDRILIF						1		8.00		8.00
+  75	  GRISEOFULVIN TAB 500						1		15.00		15.00
+  76	  NO.10						1		2.00		2.00
+  77	  PARACETAMOL TAB						1		2.00		2.00
+  78	  LOPERAMIDE						1		3.00		3.00
+  79	  NO.10						1		2.00		2.00
+  80	  ZUBES LOZENGES						1		2.00		2.00
+  81	  APC 50X4						1		1.00		1.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 500.80
+----------------------------------------------------------------------------------------------------------------------------------
+

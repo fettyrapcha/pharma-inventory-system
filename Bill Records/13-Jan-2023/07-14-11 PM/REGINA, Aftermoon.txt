@@ -1,0 +1,66 @@
+
+Sales
+
+Cashier : REGINA									Date : 13/Jan/2023
+
+Shift  : Aftermoon									Time : 07:14:11 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  DICLONOVA PLUS						1		4.50		4.50
+  2	  GEBEDOL						1		5.00		5.00
+  3	  METHYLATED SPIRIT 60ML						1		4.00		4.00
+  4	  KWIK ACTION						1		2.00		2.00
+  5	  LOFNAC 100						2		1.50		3.00
+  6	  PENICILLIN V 125						1		3.00		3.00
+  7	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  8	  PARACETAMOL TAB						1		2.00		2.00
+  9	  HAYZIN						1		1.50		1.50
+  10	  PARACETAMOL TAB						1		2.00		2.00
+  11	  FAMACOLD						1		2.00		2.00
+  12	  GEBEDOL						1		5.00		5.00
+  13	  MIST MAGTRISILICATE						1		6.50		6.50
+  14	  PARALEX-D 						1		8.00		8.00
+  15	  PARACETAMOL TAB						1		2.00		2.00
+  16	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  17	  PENICILLIN V 125						1		3.00		3.00
+  18	  METRONIDAZOLE 200MG						1		1.50		1.50
+  19	  GVITHER PLUS						1		10.00		10.00
+  20	  PARACETAMOL TAB						1		2.00		2.00
+  21	  METHYLATED SPIRIT 60ML						1		4.00		4.00
+  22	  FLUCLOXACILLIN CAPS 250MG						4		6.50		26.00
+  23	  GEBEDOL						1		5.00		5.00
+  24	  RAPINOL						2		1.00		2.00
+  25	  NAKLOFEN(DUO)						1		5.00		5.00
+  26	  LOPERAMIDE						1		3.00		3.00
+  27	  TAABEA HERBAL MIXTURE						1		30.00		30.00
+  28	  SAMALIN ADULT						1		18.00		18.00
+  29	  GAUZE BANAGE 4'						7		1.50		10.50
+  30	  GEBEDOL						1		5.00		5.00
+  31	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  32	  PENICILLIN V 125						1		3.00		3.00
+  33	  PENICILLIN V 125						1		3.00		3.00
+  34	  TAABEA HERBAL MIXTURE						1		30.00		30.00
+  35	  NO.10						1		2.00		2.00
+  36	  FAMACOLD						1		2.00		2.00
+  37	  PARACETAMOL TAB						1		2.00		2.00
+  38	  PREGNANCY TEST KIT						1		3.00		3.00
+  39	  LETACAM						1		2.00		2.00
+  40	  PARALEX-D 						1		8.00		8.00
+  41	  DYNEWELL TAB						2		1.00		2.00
+  42	  LOPERAMIDE						1		3.00		3.00
+  43	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  44	  PARACETAMOL TAB						1		2.00		2.00
+  45	  PREDNISOLONE 5MG						1		1.50		1.50
+  46	  RAPINOL						2		1.00		2.00
+  47	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  48	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 265.50
+----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,72 @@
+
+Sales
+
+Cashier : CEE									Date : 02/Jan/2023
+
+Shift  : Aftermoon									Time : 10:23:39 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  LETALIN						1		6.50		6.50
+  2	  GEBEDOL						1		5.00		5.00
+  3	  ASMADRIN						1		1.50		1.50
+  4	  FLUCLOXACILLIN CAPS 250MG						1		6.50		6.50
+  5	  PREGNANCY TEST KIT						2		3.00		6.00
+  6	  INDOCIN						1		1.00		1.00
+  7	  PREDNISOLONE 5MG						1		1.50		1.50
+  8	  RAPINOL						1		1.00		1.00
+  9	  COLDRID						3		2.00		6.00
+  10	  RAPINOL						1		1.00		1.00
+  11	  FIESTA CONDOM						1		7.00		7.00
+  12	  AMPICILLIN CAPS(LETAP)						1		3.50		3.50
+  13	  BISACODYL						4		1.00		4.00
+  14	  KWIK ACTION						1		2.00		2.00
+  15	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  16	  COLDRILIF						1		8.00		8.00
+  17	  VERMOX						1		26.00		26.00
+  18	  PREDNISOLONE 5MG						2		1.50		3.00
+  19	  LOPERAMIDE						2		3.00		6.00
+  20	  SUPER APETI						1		3.50		3.50
+  21	  PARACETAMOL TAB						1		2.00		2.00
+  22	  PARACETAMOL TAB						5		2.00		10.00
+  23	  COLDRID						1		2.00		2.00
+  24	  FENBASE						1		6.00		6.00
+  25	  RAPINOL						1		1.00		1.00
+  26	  TANZOL						1		5.00		5.00
+  27	  TOT'HEMA						2		8.00		16.00
+  28	  NO.10						3		2.00		6.00
+  29	  PENICILLIN V 125						3		3.00		9.00
+  30	  IBUCAP S/S						1		3.50		3.50
+  31	  MULTIVITE						2		0.60		1.20
+  32	  EFPAC						5		3.00		15.00
+  33	  METRONIDAZOLE 200MG						3		1.50		4.50
+  34	  COLDRILIF						1		8.00		8.00
+  35	  SEPTRIN						1		3.00		3.00
+  36	  PARACETAMOL TAB						1		2.00		2.00
+  37	  LOFNAC 100						2		1.50		3.00
+  38	  GEBEDOL						3		5.00		15.00
+  39	  BENDROFLUAZIDE 2.5MG						2		2.00		4.00
+  40	  PAINOFF						2		1.50		3.00
+  41	  LYDIA POSTPILL						1		15.50		15.50
+  42	  STREPTOL						2		4.00		8.00
+  43	  PARALEX-D 						1		8.00		8.00
+  44	  CITRO-C						1		3.50		3.50
+  45	  ZUBES ADULT						1		34.00		34.00
+  46	  ZINTAB 20						3		1.50		4.50
+  47	  PANACIN						2		3.00		6.00
+  48	  AMOXYL CAPS 500MG (G.R)						15		1.20		18.00
+  49	  SAMALIN ADULT						1		18.00		18.00
+  50	  PAINGAY CAPS						1		10.00		10.00
+  51	  TRES-ORIX 100ML						1		25.00		25.00
+  52	  ZUBES LOZENGES						4		2.00		8.00
+  53	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  54	  EFPAC						1		3.00		3.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 389.70
+----------------------------------------------------------------------------------------------------------------------------------
+

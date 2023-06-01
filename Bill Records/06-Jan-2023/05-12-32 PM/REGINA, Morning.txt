@@ -1,0 +1,69 @@
+
+Sales
+
+Cashier : REGINA									Date : 06/Jan/2023
+
+Shift  : Morning									Time : 05:12:32 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  COLDRILIF						1		8.00		8.00
+  2	  PARACETAMOL TAB						1		2.00		2.00
+  3	  BECOATIN						1		30.00		30.00
+  4	  PREGNANCY TEST KIT						1		3.00		3.00
+  5	  SEPTRIN						1		3.00		3.00
+  6	  CYFEN TAB						1		2.00		2.00
+  7	  PARACETAMOL TAB						1		2.00		2.00
+  8	  EFPAC						1		3.00		3.00
+  9	  ASMADRIN						1		1.50		1.50
+  10	  SALBUTAMOL TAB						2		0.50		1.00
+  11	  PARACETAMOL TAB						1		2.00		2.00
+  12	  METRONIDAZOLE 200MG						2		1.50		3.00
+  13	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  14	  METRONIDAZOLE 200MG						1		1.50		1.50
+  15	  COLDRILIF						1		8.00		8.00
+  16	  LETACAM						2		1.70		3.40
+  17	  ZENTEL						1		26.00		26.00
+  18	  PARACETAMOL TAB						1		2.00		2.00
+  19	  RAPINOL						1		1.00		1.00
+  20	  GEBEDOL						1		5.00		5.00
+  21	  FAMACOLD						1		2.00		2.00
+  22	  LOFNAC 100						1		1.50		1.50
+  23	  AKES TAB						1		3.00		3.00
+  24	  GYPRONE PLUS TABLET						1		6.00		6.00
+  25	  METRONIDAZOLE 200MG						1		1.50		1.50
+  26	  PARACETAMOL TAB						1		2.00		2.00
+  27	  FIESTA CONDOM						1		7.00		7.00
+  28	  TEEDAR						1		20.00		20.00
+  29	  DYNEWELL TAB						1		1.00		1.00
+  30	  AMLODIPINE 10MG						1		9.00		9.00
+  31	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  32	  SEPTRIN						1		3.00		3.00
+  33	  PARACETAMOL TAB						1		2.00		2.00
+  34	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  35	  MULTIVITE						1		0.60		0.60
+  36	  COTTON						1		1.00		1.00
+  37	  KWIK ACTION						1		2.00		2.00
+  38	  LOPERAMIDE						1		3.00		3.00
+  39	  APC 50X4						1		1.00		1.00
+  40	  RAPINOL						1		1.00		1.00
+  41	  FAMACOLD						1		2.00		2.00
+  42	  GEBEDOL						1		5.00		5.00
+  43	  PARACETAMOL TAB						2		2.00		4.00
+  44	  KWIK ACTION						1		2.00		2.00
+  45	  PARACETAMOL TAB						1		2.00		2.00
+  46	  RAPINOL						3		1.00		3.00
+  47	  PREDNISOLONE 5MG						2		1.50		3.00
+  48	  ZUBES LOZENGES						1		2.00		2.00
+  49	  ADOM KOO CAPS						2		1.00		2.00
+  50	  BOAFO						1		10.00		10.00
+  51	  KWIK ACTION						1		2.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 223.00
+----------------------------------------------------------------------------------------------------------------------------------
+

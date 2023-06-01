@@ -1,0 +1,98 @@
+
+Sales
+
+Cashier : CEE									Date : 14/Jan/2023
+
+Shift  : Aftermoon									Time : 01:22:06 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  2	  RAPINOL						3		1.00		3.00
+  3	  ASMADRIN						2		1.50		3.00
+  4	  DYNEWELL SYRUP						1		12.00		12.00
+  5	  CYFEN TAB						1		3.00		3.00
+  6	  DYNEWELL TAB						1		1.00		1.00
+  7	  FOLIC ACID						1		0.60		0.60
+  8	  B.CO						1		0.50		0.50
+  9	  MULTIVITE						1		0.60		0.60
+  10	  CHLORAMPHENICOL CAPS						1		7.00		7.00
+  11	  AMOXACILLIN CAPS TOBIN						2		5.00		10.00
+  12	  PENICILLIN V 125						2		3.00		6.00
+  13	  PARACETAMOL TAB						1		2.00		2.00
+  14	  LOPERAMIDE						1		3.00		3.00
+  15	  INDOCIN						1		1.00		1.00
+  16	  NAKLOFEN(DUO)						10		5.00		50.00
+  17	  LOFNAC 100						10		1.50		15.00
+  18	  GEBEDOL						1		5.00		5.00
+  19	  LOFNAC TAB						2		4.00		8.00
+  20	  RAPINOL						5		1.00		5.00
+  21	  MALAR-2 FORTE DS						1		32.00		32.00
+  22	  GEBEDOL						1		5.00		5.00
+  23	  VERMOX						1		26.00		26.00
+  24	  LETACAM						1		2.00		2.00
+  25	  PARACETAMOL TAB						1		2.00		2.00
+  26	  RAPINOL						1		1.00		1.00
+  27	  METHYLATED SPIRIT 60ML						1		4.00		4.00
+  28	  PINPAC EXTRA						1		4.00		4.00
+  29	  PARACETAMOL TAB						1		2.00		2.00
+  30	  WORMPLEX TAB						1		14.00		14.00
+  31	  KWIK ACTION						1		2.00		2.00
+  32	  PAINOFF						2		1.50		3.00
+  33	  RAPINOL						2		1.00		2.00
+  34	  LETALIN						2		6.50		13.00
+  35	  GEBEDOL						1		5.00		5.00
+  36	  KWIK ACTION						1		2.00		2.00
+  37	  FLUCONAZOLE - GV						1		9.00		9.00
+  38	  PARACETAMOL TAB						2		2.00		4.00
+  39	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  40	  EFPAC						2		3.00		6.00
+  41	  DOLOTAB						1		2.50		2.50
+  42	  GEBEDOL						1		5.00		5.00
+  43	  GEBEDOL						1		5.00		5.00
+  44	  PARACETAMOL TAB						1		2.00		2.00
+  45	  GEBEDOL						1		5.00		5.00
+  46	  PARACETAMOL TAB						1		2.00		2.00
+  47	  E-PANOL						1		16.00		16.00
+  48	  KWIK ACTION						1		2.00		2.00
+  49	  PENICILLIN V 125						1		3.00		3.00
+  50	  FAMACOLD						1		2.00		2.00
+  51	  AUNTIE MARY'S GRIPE WATER						1		30.00		30.00
+  52	  LYDIA POSTPILL						1		15.50		15.50
+  53	  GEBEDOL						1		5.00		5.00
+  54	  DOLOTAB						1		2.50		2.50
+  55	  WORMPLEX TAB						1		14.00		14.00
+  56	  GEBEDOL						1		5.00		5.00
+  57	  ZUBES LOZENGES						1		2.00		2.00
+  58	  ADUTWUMWAA						1		1.00		1.00
+  59	  PARACETAMOL TAB						1		2.00		2.00
+  60	  HYDROGEN PEROXIDE						1		16.00		16.00
+  61	  CITRO-C						4		3.50		14.00
+  62	  PARACETAMOL TAB						2		2.00		4.00
+  63	  PARACETAMOL TAB						1		2.00		2.00
+  64	  WINZOLE						1		3.00		3.00
+  65	  PARACETAMOL TAB						1		2.00		2.00
+  66	  PAINGAY CAPS						1		10.00		10.00
+  67	  NO.10						1		2.00		2.00
+  68	  INDOCIN						1		1.00		1.00
+  69	  PARACETAMOL TAB						1		2.00		2.00
+  70	  FIESTA CONDOM						1		7.00		7.00
+  71	  KWIK ACTION						1		2.00		2.00
+  72	  DOLOTAB						1		2.50		2.50
+  73	  NO.10						1		2.00		2.00
+  74	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  75	  STAIRON						1		11.00		11.00
+  76	  BORGES OIL						1		36.00		36.00
+  77	  ZUBES ADULT						1		34.00		34.00
+  78	  AZITEX						1		30.00		30.00
+  79	  MAGACIDE TAB						2		1.00		2.00
+  80	  PARACETAMOL TAB						1		2.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 589.70
+----------------------------------------------------------------------------------------------------------------------------------
+

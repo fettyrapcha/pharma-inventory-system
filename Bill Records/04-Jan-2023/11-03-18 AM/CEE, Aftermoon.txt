@@ -1,0 +1,101 @@
+
+Sales
+
+Cashier : CEE									Date : 04/Jan/2023
+
+Shift  : Aftermoon									Time : 11:03:18 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  POLYGEL SUSP 120ML						1		11.00		11.00
+  2	  RHIZIN						2		1.50		3.00
+  3	  KWIK ACTION						1		2.00		2.00
+  4	  TANZOL						1		5.00		5.00
+  5	  NO.10						1		2.00		2.00
+  6	  DUROL 200ML						1		19.00		19.00
+  7	  MIST MAGTRISILICATE						1		6.50		6.50
+  8	  NO.10						2		2.00		4.00
+  9	  RAPINOL						2		1.00		2.00
+  10	  PARACETAMOL TAB						1		2.00		2.00
+  11	  FENBASE						1		6.00		6.00
+  12	  DYNEWELL TAB						3		1.00		3.00
+  13	  CYFEN TAB						2		2.00		4.00
+  14	  SEPTRIN						2		3.00		6.00
+  15	  METRONIDAZOLE (DANGYL) 400MG						1		3.00		3.00
+  16	  LYDIA POSTPILL						1		15.50		15.50
+  17	  RAPINOL						2		1.00		2.00
+  18	  AMLODIPINE 10MG						1		9.00		9.00
+  19	  PARACETAMOL TAB						2		2.00		4.00
+  20	  DYNEWELL TAB						1		1.00		1.00
+  21	  PARACETAMOL TAB						1		2.00		2.00
+  22	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  23	  COLDRID						1		2.00		2.00
+  24	  GYPRONE PLUS TABLET						1		6.00		6.00
+  25	  PARACETAMOL TAB						1		2.00		2.00
+  26	  PENICILLIN V 125						1		3.00		3.00
+  27	  PARACETAMOL TAB						2		2.00		4.00
+  28	  CITRO-C						1		3.50		3.50
+  29	  ZUBES LOZENGES						1		2.00		2.00
+  30	  E-PANOL						1		10.00		10.00
+  31	  PARACETAMOL TAB						1		2.00		2.00
+  32	  BRUFEN 400MG						1		1.50		1.50
+  33	  LIBRUM						1		3.00		3.00
+  34	  TANZOL						1		5.00		5.00
+  35	  RAPINOL						1		1.00		1.00
+  36	  FAMACOLD						2		2.00		4.00
+  37	  GENTAMYCIN  EYE AND EAR DROP						1		6.00		6.00
+  38	  NO.10						2		2.00		4.00
+  39	  COLDRILIF						1		8.00		8.00
+  40	  PANACIN						1		3.00		3.00
+  41	  AMOXACILLIN CAP 250MG						1		4.00		4.00
+  42	  GEBEDOL						1		5.00		5.00
+  43	  LOPERAMIDE						1		3.00		3.00
+  44	  GEBEDOL						1		5.00		5.00
+  45	  LOFNAC TAB						1		4.00		4.00
+  46	  COLDRILIF						1		8.00		8.00
+  47	  METRONIDAZOLE 200MG						2		1.50		3.00
+  48	  RHIZIN						1		1.50		1.50
+  49	  B.CO						1		0.50		0.50
+  50	  COLDRILIF						1		8.00		8.00
+  51	  PARACETAMOL TAB						1		2.00		2.00
+  52	  APC 50X4						2		1.00		2.00
+  53	  BRUFEN 400MG						1		1.50		1.50
+  54	  PARACETAMOL TAB						1		2.00		2.00
+  55	  LOFNAC 100						2		1.50		3.00
+  56	  SAMALIN ADULT						1		18.00		18.00
+  57	  MIST SENACO						1		7.00		7.00
+  58	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  59	  ZUBES EXPECTORANT						1		34.00		34.00
+  60	  AZITEX						1		30.00		30.00
+  61	  STOPKOF ADULT						1		15.00		15.00
+  62	  VERMOX						1		26.00		26.00
+  63	  RHIZIN						2		1.50		3.00
+  64	  PENICILLIN V 125						1		3.00		3.00
+  65	  LOFNAC 100						1		1.50		1.50
+  66	  LOFNAC 100						1		1.50		1.50
+  67	  COLDRILIF						1		8.00		8.00
+  68	  AMOXACILLIN CAPS TOBIN						1		5.00		5.00
+  69	  COLDRILIF						1		8.00		8.00
+  70	  ADOM KOO CAPS						3		1.00		3.00
+  71	  FIESTA CONDOM						1		7.00		7.00
+  72	  WORMPLEX TAB						1		14.00		14.00
+  73	  PARACETAMOL TAB						1		2.00		2.00
+  74	  TRES-ORIX 100ML						1		25.00		25.00
+  75	  MIST MAGTRISILICATE						1		6.50		6.50
+  76	  LYDIA POSTPILL						1		15.50		15.50
+  77	  LONART 20/120 TAB						1		15.00		15.00
+  78	  PARACETAMOL TAB						3		2.00		6.00
+  79	  COLDRILIF						1		8.00		8.00
+  80	  LETACAM						1		1.70		1.70
+  81	  FOLIC ACID						1		0.60		0.60
+  82	  MULTIVITE						1		0.60		0.60
+  83	  PARACETAMOL TAB						1		2.00		2.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 508.40
+----------------------------------------------------------------------------------------------------------------------------------
+

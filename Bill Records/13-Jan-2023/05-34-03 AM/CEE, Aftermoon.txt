@@ -1,0 +1,51 @@
+
+Sales
+
+Cashier : CEE									Date : 13/Jan/2023
+
+Shift  : Aftermoon									Time : 05:34:03 AM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  GACET 125						10		1.50		15.00
+  2	  POLYGEL SUSP 120ML						1		11.00		11.00
+  3	  WORMPLEX TAB						1		14.00		14.00
+  4	  POLYFER FORTE 50ML						1		5.00		5.00
+  5	  FOLIC ACID						3		0.60		1.80
+  6	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  7	  LOPERAMIDE						1		3.00		3.00
+  8	  ASMADRIN						2		1.50		3.00
+  9	  RAPINOL						5		1.00		5.00
+  10	  EFPAC						1		3.00		3.00
+  11	  PARACETAMOL TAB						1		2.00		2.00
+  12	  PARACETAMOL TAB						1		2.00		2.00
+  13	  WORMPLEX TAB						1		14.00		14.00
+  14	  HAYZIN						1		1.50		1.50
+  15	  RAPINOL						1		1.00		1.00
+  16	  RAPINOL						1		1.00		1.00
+  17	  ALUMINIUM HYDROXIDE						1		2.00		2.00
+  18	  RAPINOL						1		1.00		1.00
+  19	  OMEPRAZOLE(AVENTRA)						2		6.00		12.00
+  20	  MIST MAGTRISILICATE						1		6.50		6.50
+  21	  BENDRO 2.5MG(ACCORD)						1		11.00		11.00
+  22	  STOPKOF CHILD(EXP)						1		11.00		11.00
+  23	  METRONIDAZOLE (DANGYL) 400MG						2		3.00		6.00
+  24	  BRUFEN 400MG						1		2.00		2.00
+  25	  FLUCLOXACILLIN SUSP (ERNEST)						1		19.50		19.50
+  26	  MILK OF MAGNESIA 120ML						1		20.00		20.00
+  27	  AUNTIE MARY'S GRIPE WATER						1		30.00		30.00
+  28	  PAINGAY CAPS						1		10.00		10.00
+  29	  PARACETAMOL TAB						1		2.00		2.00
+  30	  LETACAM						1		2.00		2.00
+  31	  EFPAC						1		3.00		3.00
+  32	  APC 50X4						2		1.00		2.00
+  33	  RAPINOL						1		1.00		1.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 225.30
+----------------------------------------------------------------------------------------------------------------------------------
+

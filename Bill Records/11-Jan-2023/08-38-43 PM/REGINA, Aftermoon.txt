@@ -1,0 +1,77 @@
+
+Sales
+
+Cashier : REGINA									Date : 11/Jan/2023
+
+Shift  : Aftermoon									Time : 08:38:43 PM
+
+----------------------------------------------------------------------------------------------------------------------------------
+No	   Product Name					   Quantity		     Price(Ghc)		     Total(Ghc)
+----------------------------------------------------------------------------------------------------------------------------------
+
+  1	  ASMADRIN						2		1.50		3.00
+  2	  AMLODIPINE 10MG						1		9.00		9.00
+  3	  BENDROFLUAZIDE 2.5MG						1		2.00		2.00
+  4	  PARACETAMOL TAB						1		2.00		2.00
+  5	  LETACAM						2		2.00		4.00
+  6	  APC 50X4						1		1.00		1.00
+  7	  RAPINOL						1		1.00		1.00
+  8	  TEEDAR						1		20.00		20.00
+  9	  SHALCIP						1		10.00		10.00
+  10	  PARACETAMOL TAB						1		2.00		2.00
+  11	  INDOCIN						1		1.00		1.00
+  12	  LETACAM						1		2.00		2.00
+  13	  AMLODIPINE 10MG						1		9.00		9.00
+  14	  LETACAM						1		2.00		2.00
+  15	  FOLIC ACID						1		0.60		0.60
+  16	  ASMADRIN						1		1.50		1.50
+  17	  RAPINOL						5		1.00		5.00
+  18	  INDOCIN						1		1.00		1.00
+  19	  RAPINOL						1		1.00		1.00
+  20	  KWIK ACTION						1		2.00		2.00
+  21	  EFPAC						1		3.00		3.00
+  22	  VIROL						1		22.00		22.00
+  23	  PANACIN						1		3.00		3.00
+  24	  DITHRANOL OINT						1		15.00		15.00
+  25	  FIESTA CONDOM						1		7.00		7.00
+  26	  INDOCIN						1		1.00		1.00
+  27	  CITRO-C						1		3.50		3.50
+  28	  LONART 20/120 SUSP						1		28.00		28.00
+  29	  E-PANOL						1		10.00		10.00
+  30	  METROLEX F						1		30.00		30.00
+  31	  KIDI CARE						1		38.00		38.00
+  32	  OMEPRAZOLE(AVENTRA)						1		6.00		6.00
+  33	  WORMPLEX TAB						1		14.00		14.00
+  34	  PARACETAMOL TAB						1		2.00		2.00
+  35	  VERMOX						1		26.00		26.00
+  36	  BRUFEN 400MG						2		1.50		3.00
+  37	  PARACETAMOL TAB						2		2.00		4.00
+  38	  SEPTRIN						1		3.00		3.00
+  39	  DRAGON DELAY SPRAY						1		75.00		75.00
+  40	  LOFNAC 100						2		1.50		3.00
+  41	  KISS CONDOM						1		6.00		6.00
+  42	  KISS CONDOM						1		6.00		6.00
+  43	  KOFFEX ADULT						1		16.00		16.00
+  44	  MIST MAGTRISILICATE						1		6.50		6.50
+  45	  LETACAM						1		2.00		2.00
+  46	  PARACETAMOL TAB						1		2.00		2.00
+  47	  LETACAM						1		2.00		2.00
+  48	  PREDNISOLONE 5MG						1		1.50		1.50
+  49	  RAPINOL						1		1.00		1.00
+  50	  FOLIC ACID						1		0.60		0.60
+  51	  FIESTA CONDOM						1		7.00		7.00
+  52	  RAPINOL						2		1.00		2.00
+  53	  PARACETAMOL TAB						2		2.00		4.00
+  54	  LOFNAC 100						2		1.50		3.00
+  55	  KWIK ACTION						1		2.00		2.00
+  56	  VERMOX						1		26.00		26.00
+  57	  NO.10						2		2.00		4.00
+  58	  BONNISAN						1		46.00		46.00
+  59	  PREGNANCY TEST KIT						2		3.00		6.00
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+TOTAL =  Ghc 519.20
+----------------------------------------------------------------------------------------------------------------------------------
+
